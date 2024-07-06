@@ -1,0 +1,6 @@
+@ResilientWebApiDemo_HostAddress = http://localhost:5174
+
+GET {{ResilientWebApiDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
